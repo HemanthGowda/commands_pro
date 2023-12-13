@@ -8,6 +8,7 @@
          2. zsh-autosuggestions
          3. alias-tips
          4. zsh-syntax-highlighting
+         5. aliases
    2. brew
    3. autojump
    4. git
